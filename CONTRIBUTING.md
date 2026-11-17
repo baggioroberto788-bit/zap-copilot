@@ -19,3 +19,5 @@ Contribuições são bem-vindas! O fluxo é por Pull Request:
 - Leitura do WhatsApp Web (seletores): objeto `SEL` no topo de `src/content.js`
 - Comportamento da IA: `src/prompts.js`
 - Painel: `src/content.js` + `src/panel.css`
+- https://github.com/baggioroberto788-bit/zap-copilot.git
+- 
